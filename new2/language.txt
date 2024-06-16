@@ -1,0 +1,4 @@
+English|en-ph|Philippines|englishen-ph.zip
+Russian|ru-ru|Russia|russianen-ph.zip
+EnglishNOLAG|en-ph2|Philippines|englishen-ph.zip
+RussianNOLAG|ru-ru2|Russia|russianen-ph.zip
